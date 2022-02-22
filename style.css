@@ -78,3 +78,26 @@
     border-bottom: 1px dotted #ccc;
   }
   
+
+  /* inbut_box style when click addtask button  */
+  .inbutbox_success{
+    border-color:rgb(6, 219, 70) !important;
+  }
+
+  .inbutbox_error{
+    border-color:rgb(211, 60, 60) !important;
+  
+  }
+
+  .div_flex1{
+    background: rgb(204, 5, 187);
+    margin-left: 3px;
+  }
+  .div_flex2{
+    background: rgb(212, 129, 4);
+    margin-left: 3px;
+  }
+  .div_flex3{
+    background: rgb(6, 144, 224);
+    margin-left: 3px;
+  }
